@@ -2,15 +2,13 @@ body{
   height: 2000px;
 }
 .slick-prev{
-  background-color: black;
   left: 0;
   z-index: 999;
 }
 .slick-next{
-  background-color: black;
   right: 0;
   z-index: 999;
 }
-.slider {
+.slider img {
   max-width:100%;
 }
