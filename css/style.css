@@ -12,5 +12,5 @@ body{
   z-index: 999;
 }
 .slider {
-  width: 100%;
+  background-size: 100%;
 }
