@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     onMyClick() {}
     static propTypes = {
-    // using PropTypes,when component is not a string ,we have warning appears in the console
+    // using PropTypes,when component is not a string, we have warning appears in the console
       input: PropTypes.string.isRequired
 
     }
