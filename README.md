@@ -1,8 +1,8 @@
 Small website template, 
 using Bootstrap4, 
-slider on .slick, 
+slider on .slick JS, 
 form on ReactJS, 
-rwd
+RWD
 
 website_template.github.io
 Enjoy!
