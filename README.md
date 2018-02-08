@@ -4,5 +4,5 @@ slider on .slick JS,
 form on ReactJS, 
 RWD
 
-website_template.github.io
+https://zuzmen.github.io/web_form_slider/
 Enjoy!
