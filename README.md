@@ -1,4 +1,4 @@
-Small website template, 
+Simple website, 
 using Bootstrap4, 
 slider on .slick JS, 
 form on ReactJS, 
